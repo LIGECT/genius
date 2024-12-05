@@ -1,2 +1,1 @@
-# hexlet-git
-# my-workout
+my first project
